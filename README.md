@@ -9,6 +9,6 @@
 <p>✅ Machine learning integration for predictive analytics</p>
 
 <h3>📬 Let's Connect!</h3>
-<p>💼 (<a href="https://www.linkedin.com/in/subodh-ghonge-db26032002/"><b>LinkedIn</b></a>) <br>
-   📝 [Portfolio](Your Portfolio Link) <br>
-   📧 Email: your.email@example.com </p>
+<p>💼 <a href="https://www.linkedin.com/in/subodh-ghonge-db26032002/" style = "text-decoration: none;"><b>LinkedIn</b></a> <br>
+   📝 <a href="https://subodhghonge.github.io/My-Portfolio/" style = "text-decoration: none;"><b>Portfolio</b></a> <br>
+   📧 <a href="mailto:subodhghonge12@gmail.com" style = "text-decoration: none;"><b>Email</b></a> </p>
