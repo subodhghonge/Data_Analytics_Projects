@@ -1,0 +1,6 @@
+<p> numpy </p>
+<p> pandas </p>
+<p> matplotlib </p>
+<p> seaborn </p>
+<p> scikit-learn </p>
+<p> jupyter </p>

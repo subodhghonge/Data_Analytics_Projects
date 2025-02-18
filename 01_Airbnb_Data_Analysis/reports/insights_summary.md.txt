@@ -1,0 +1,10 @@
+<h1> 📊 Airbnb Data Analysis - Insights Summary </h1>
+
+<h2> 🔹 Key Findings </h2>
+<p> - The most expensive listings are located in [specific location]. </p>
+<p> - Pricing varies significantly based on seasonality. </p>
+<p> - Hosts with more reviews tend to have higher ratings. </p>
+
+<h2> 📌 Recommendations </h2>
+<p> - Optimize pricing strategy based on peak seasons. </p>
+<p> - Improve customer engagement to increase review count. </p>
